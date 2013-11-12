@@ -47,7 +47,7 @@ public class Node {
     next = nextNode;
   } 
 
-  /** get next field  Node
+  /** get next field  Node in list
       @return next field
   */
   public Node getNext() {
